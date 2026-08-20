@@ -4,7 +4,7 @@ Personal portfolio website showcasing my skills, projects, and experience as a F
 
 ## 🚀 Live Portfolio
 
-[Visit My Portfolio](YOUR_VERCEL_URL)
+[Visit My Portfolio](https://waseem-portfolio-ochre.vercel.app/)
 
 ## 🛠️ Technologies
 
